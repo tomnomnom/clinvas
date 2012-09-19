@@ -1,0 +1,12 @@
+{
+  "name": "clinvas",
+  "version": "0.0.0",
+  "description": "CLI Canvas",
+  "main": "clinvas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Tom Hudson <mail@tomnomnom.com>",
+  "license": "BSD"
+}
